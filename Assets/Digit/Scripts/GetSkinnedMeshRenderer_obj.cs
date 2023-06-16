@@ -39,7 +39,7 @@ public class GetSkinnedMeshRenderer_obj : MonoBehaviour
         }
         Debug.Log("!!!!!!!!!!!!");
 
-        string path_pc = $"E:/dataset/ycb_touch/pc_obj_{System.DateTime.Now.ToString("yyyyMMddHHmmss")}.txt";
+        string path_pc = $"/path/to/dataset/pc_obj_{System.DateTime.Now.ToString("yyyyMMddHHmmss")}.txt";
         using (StreamWriter sw = File.CreateText(path_pc))
         {
             foreach (Vector3 point in objVertices)
@@ -49,7 +49,7 @@ public class GetSkinnedMeshRenderer_obj : MonoBehaviour
         }
         Debug.Log("!!!!!!!!!!!!");
 
-        string path_t = $"E:/dataset/ycb_touch/pc_obj_t_{System.DateTime.Now.ToString("yyyyMMddHHmmss")}.txt";
+        string path_t = $"/path/to/dataset/pc_obj_t_{System.DateTime.Now.ToString("yyyyMMddHHmmss")}.txt";
         using (StreamWriter sw = File.CreateText(path_t))
         {
             foreach (int point in objTriangles)
