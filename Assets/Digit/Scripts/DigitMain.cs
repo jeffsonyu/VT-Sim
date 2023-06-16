@@ -34,7 +34,7 @@ public class DigitMain : MonoBehaviour
         Instance = this;
         tex = new Texture2D(1024, 1024);
 
-        processPath = $"E:/dataset/ycb_touch/{System.DateTime.Now.ToString("yyyyMMddHHmmss")}";
+        processPath = $"/path/to/dataset/{System.DateTime.Now.ToString("yyyyMMddHHmmss")}";
         // processPath = $"{Application.streamingAssetsPath}/dataset/{System.DateTime.Now.ToString("yyyyMMddHHmmss")}";
         AssetManager.Instance.AddListener("SaveData", SaveData);
         screenshot = new RenderTexture(1024, 1024, 24, GraphicsFormat.R8G8B8A8_UNorm);
