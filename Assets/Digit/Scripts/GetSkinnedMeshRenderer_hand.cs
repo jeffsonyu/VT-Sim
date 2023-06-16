@@ -30,7 +30,7 @@ public class GetSkinnedMeshRenderer_hand : MonoBehaviour
             objVertices.Add(Obj.transform.TransformPoint(item));
         }
 
-        string path = $"E:/dataset/ycb_touch/pc_hand_{System.DateTime.Now.ToString("yyyyMMddHHmmss")}.txt";
+        string path = $"/path/to/dataset/pc_hand_{System.DateTime.Now.ToString("yyyyMMddHHmmss")}.txt";
         using (StreamWriter sw = File.CreateText(path))
         {
             foreach (Vector3 point in objVertices)
