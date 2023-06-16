@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Bundle
+  m_EditorClassIdentifier: 
+  m_GroupName: Bundle
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d0544a7909edbef049e13f4c9d8e750e
+  m_SerializeEntries:
+  - m_GUID: e763894cde49ff44ea9e3d91478b77a7
+    m_Address: mano_skin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fd92208af8d5275498105acd84f2fb16
+    m_Address: cracker_box
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92f99ecda951f0d44ad4bf4c9843ac5f
+    m_Address: bottle005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2fe09fea3d247c408cb8324bdebe938
+    m_Address: bottle004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5957525a2c68a044e8ddf4da6a5b5663
+    m_Address: bottle003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c1bde5b2522dea49a7103325c9c2bbb
+    m_Address: bottle002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6010f7f6937d0ef46aa5d8260701c574
+    m_Address: bottle001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6319dc185e7c5a748b81a75b06ec568c
+    m_Address: box001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8087ea0a740a4c248879f3d7a033e8a1
+    m_Address: box002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abb048c54144e3e4ba3c7a0192e681aa
+    m_Address: box003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fca3b5658797f744783ba275304bebc0
+    m_Address: box004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19373d73c7c1f76449fa499bcd57b926
+    m_Address: box005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc33add6aa95d724a86b08848ebec6fe
+    m_Address: foldingrack001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6176f6f7b07a5e243a1961541c2f0025
+    m_Address: foldingrack002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 890b976de2697fc419e6fc30ac032253
+    m_Address: foldingrack003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0628841e7a1202243a65a6872482010a
+    m_Address: foldingrack004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 405054f6e39b9f742b1b12ac8e4e1011
+    m_Address: foldingrack005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 636ffd004a2bd1d4987c9e1f60882e18
+    m_Address: foldingrack006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92830fb2638ecb2409bbaaa3ede2bdc8
+    m_Address: foldingrack007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f812247f632e9e44a9d7057c63b4f72
+    m_Address: foldingrack008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 781126751d7d41c448357c130db2fdf9
+    m_Address: foldingrack009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71eaabcbf1e70164c990fbcf88b4cd80
+    m_Address: foldingrack010
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1376b6658137a864faa083523bcfeab8
+    m_Address: foldingrack011
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b83fe0e37ce31d9438dcc103af3b99cb
+    m_Address: lock001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f7b12e88c9fbc34ea55d0e3d6860c88
+    m_Address: lock002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0f589c082e4e20e43b216e699b4a1fc4
+    m_Address: lock003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a43be937b98f965418427796680e7244
+    m_Address: lock004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67859fd1ad5afb64eba8474fed6a88bd
+    m_Address: lock005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 923922132db6ef645892910fa3c1595d
+    m_Address: lock006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56e53e9f5c071a34888642d8c61e3277
+    m_Address: lock007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e72f7c77acab40640b2bf40757d7d933
+    m_Address: lock008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abda33b950172934db9f6b2dd2b0a16f
+    m_Address: lock009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b6d8c7bc28e0f542becb9c9c95ff1d0
+    m_Address: lock010
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09e439e3056cf3844bc631cd633e9249
+    m_Address: scissor001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efc299276065abd4c8d3afff4cf10b74
+    m_Address: scissor002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c26c8388822b2d44cbd09721758ca887
+    m_Address: scissor003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a38522becf02bf04cb0df416635b1886
+    m_Address: scissor004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dfa31c94d7df1b8468c6017cbe39271d
+    m_Address: scissor006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05bb094018890cd45be537025cccde7e
+    m_Address: scissor007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2b9d3095b0b6fc941b68a2ad3f8fa26a
+    m_Address: scissor008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ffad502ce865cd4f8b74e2d9232c75f
+    m_Address: scissor009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1bda41a9a2e9f2f45b8d369e7f667c5c
+    m_Address: scissor010
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad53e461182eb234aa9481009878b83d
+    m_Address: tableware001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a3412c6f8fe7c6e408142391fcb456ef
+    m_Address: tableware002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a8ae49fd8e855d458756cef5340c985
+    m_Address: tableware003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0efcfc7f7ee545848b7b2a683e8d3014
+    m_Address: tableware004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c48e930ff375c94aae00f485cbb92a7
+    m_Address: tableware005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: baa0135cd4b2e0d42bf773ddc28d7bc9
+    m_Address: tableware006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a96781bbcd9d0de4c9c853e04ed20cd2
+    m_Address: tableware007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e28d090cae8ff904bb1f01fb68ef08f1
+    m_Address: tableware008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f9d4670e14c60e2468e0509f696405bf
+    m_Address: tableware009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 721c4f475d3549a48a8a955290775355
+    m_Address: tableware010
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5ce5869b9e394b40b31ac211ff25434
+    m_Address: cutter001
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d58bfe2ee4b87a543b1320d165310b50
+    m_Address: cutter002
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f6852471b438c0745b84429bb270cc64
+    m_Address: cutter003
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b074bb1b64000594cab6704b2de0a515
+    m_Address: cutter004
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3da0c2e394393dd4fa0c6a914729a804
+    m_Address: cutter005
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 339258c629c36f140a5dbcdd097657db
+    m_Address: cutter006
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e9e57debd32ba64baabb806dd4688b4
+    m_Address: cutter007
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 23ea6214fd301674dac600e09ce968f7
+    m_Address: cutter008
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: aea9757b559a8ed43a4769989ebabc52
+    m_Address: cutter009
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cbd05b69ea829584ca18f392f09f90c9
+    m_Address: sugar_box
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e958aa7b007a794fb3f08c494158bfb
+    m_Address: pudding_box
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e3586628eaf22a84b861a473eb482bb7
+    m_Address: gelatin_box
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b218c93819565ea459062614ef8c4bef
+    m_Address: sponge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10ae9a25de045724da4d1cbb5b932c63
+    m_Address: rubiks_cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cb3ed8b08b021d1db93858f782af221a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9de88bc16f74a0cf9b134463efb162ce, type: 2}
+    - {fileID: 11400000, guid: 7bf3301480d53deb98a4ac9db38e4e39, type: 2}

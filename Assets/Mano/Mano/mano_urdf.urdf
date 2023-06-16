@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<robot name="mano_urdf">
+  <material name="Default">
+    <color rgba="0.9725 0.8392 0.8078 0" />
+  </material>
+  <link name="m_avg_R_Wrist">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_R_Wrist.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_R_Wrist.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rindex0">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rindex0.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rindex0.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rindex1">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rindex1.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rindex1.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rindex2">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rindex2.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rindex2.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rmiddle0">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rmiddle0.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rmiddle0.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rmiddle1">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rmiddle1.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rmiddle1.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rmiddle2">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rmiddle2.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rmiddle2.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rpinky0">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rpinky0.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rpinky0.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rpinky1">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rpinky1.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rpinky1.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rpinky2">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rpinky2.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rpinky2.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rring0">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rring0.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rring0.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rring1">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rring1.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rring1.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rring2">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rring2.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rring2.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rthumb0">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rthumb0.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rthumb0.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rthumb1">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rthumb1.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rthumb1.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <link name="m_avg_rthumb2">
+    <visual>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rthumb2.stl" scale="1 1 1" />
+      </geometry>
+      <material name="Default">
+        <color rgba="0.9725 0.8392 0.8078 0" />
+      </material>
+    </visual>
+    <collision>
+      <geometry>
+        <mesh filename="package://meshes/m_avg_rthumb2.stl" scale="1 1 1" />
+      </geometry>
+    </collision>
+  </link>
+  <joint name="m_avg_R_Wrist_m_avg_rindex0_joint" type="fixed">
+    <origin xyz="0.025301 -0.102809 -0.012384" />
+    <parent link="m_avg_R_Wrist" />
+    <child link="m_avg_rindex0" />
+  </joint>
+  <joint name="m_avg_rindex0_m_avg_rindex1_joint" type="fixed">
+    <origin xyz="0.001124 -0.027963 -0.011452" />
+    <parent link="m_avg_rindex0" />
+    <child link="m_avg_rindex1" />
+  </joint>
+  <joint name="m_avg_rindex1_m_avg_rindex2_joint" type="fixed">
+    <origin xyz="-0.002104 -0.010287 -0.018698" />
+    <parent link="m_avg_rindex1" />
+    <child link="m_avg_rindex2" />
+  </joint>
+  <joint name="m_avg_R_Wrist_m_avg_rmiddle0_joint" type="fixed">
+    <origin xyz="0.0006 -0.111371 -0.010032" />
+    <parent link="m_avg_R_Wrist" />
+    <child link="m_avg_rmiddle0" />
+  </joint>
+  <joint name="m_avg_rmiddle0_m_avg_rmiddle1_joint" type="fixed">
+    <origin xyz="-0.004007 -0.02478 -0.013997" />
+    <parent link="m_avg_rmiddle0" />
+    <child link="m_avg_rmiddle1" />
+  </joint>
+  <joint name="m_avg_rmiddle1_m_avg_rmiddle2_joint" type="fixed">
+    <origin xyz="-0.001247 -0.007788 -0.020519" />
+    <parent link="m_avg_rmiddle1" />
+    <child link="m_avg_rmiddle2" />
+  </joint>
+  <joint name="m_avg_R_Wrist_m_avg_rpinky0_joint" type="fixed">
+    <origin xyz="-0.040315 -0.086954 -0.019786" />
+    <parent link="m_avg_R_Wrist" />
+    <child link="m_avg_rpinky0" />
+  </joint>
+  <joint name="m_avg_rpinky0_m_avg_rpinky1_joint" type="fixed">
+    <origin xyz="-0.005514 -0.013287 -0.012501" />
+    <parent link="m_avg_rpinky0" />
+    <child link="m_avg_rpinky1" />
+  </joint>
+  <joint name="m_avg_rpinky1_m_avg_rpinky2_joint" type="fixed">
+    <origin xyz="0.000954 -0.004849 -0.016267" />
+    <parent link="m_avg_rpinky1" />
+    <child link="m_avg_rpinky2" />
+  </joint>
+  <joint name="m_avg_R_Wrist_m_avg_rring0_joint" type="fixed">
+    <origin xyz="-0.023867 -0.10021 -0.013006" />
+    <parent link="m_avg_R_Wrist" />
+    <child link="m_avg_rring0" />
+  </joint>
+  <joint name="m_avg_rring0_m_avg_rring1_joint" type="fixed">
+    <origin xyz="-0.001146 -0.022404 -0.013868" />
+    <parent link="m_avg_rring0" />
+    <child link="m_avg_rring1" />
+  </joint>
+  <joint name="m_avg_rring1_m_avg_rring2_joint" type="fixed">
+    <origin xyz="0.001506 -0.005525 -0.021117" />
+    <parent link="m_avg_rring1" />
+    <child link="m_avg_rring2" />
+  </joint>
+  <joint name="m_avg_R_Wrist_m_avg_rthumb0_joint" type="fixed">
+    <origin xyz="0.02754 -0.040965 -0.026681" />
+    <parent link="m_avg_R_Wrist" />
+    <child link="m_avg_rthumb0" />
+  </joint>
+  <joint name="m_avg_rthumb0_m_avg_rthumb1_joint" type="fixed">
+    <origin xyz="0.018149 -0.0216 -0.011903" />
+    <parent link="m_avg_rthumb0" />
+    <child link="m_avg_rthumb1" />
+  </joint>
+  <joint name="m_avg_rthumb1_m_avg_rthumb2_joint" type="fixed">
+    <origin xyz="0.003384 -0.023355 -0.014209" />
+    <parent link="m_avg_rthumb1" />
+    <child link="m_avg_rthumb2" />
+  </joint>
+</robot>
