@@ -20,7 +20,10 @@ The python script **data_generate.py** is in the release, along with the hand ur
 ### Unity
 You can clone this repository and open the project in Unity. We use **Unity 2021.3.15f1c1** to develop this project. You can download it from [here](https://unity3d.com/get-unity/download/archive). We also use the [Obi SoftBody](https://assetstore.unity.com/packages/tools/physics/obi-softbody-130029) plugin in our Unity project, which you need to purchase and import into your project.
 
-You might need to first change the **processPath** in *Assets/Digit/Scripts/DigitMain.cs*, **path_pc** and **path_t** in *Assets/Digit/Scripts/GetSkinnedMeshRenderer_obj.cs*, **path** in *Assets/Digit/Scripts/GetSkinnedMeshRenderer_hand.cs* to your own path.
+You might need to first change the following paths to your own:  
+**processPath** in *Assets/Digit/Scripts/DigitMain.cs*  
+**path_pc** and **path_t** in *Assets/Digit/Scripts/GetSkinnedMeshRenderer_obj.cs*  
+**path** in *Assets/Digit/Scripts/GetSkinnedMeshRenderer_hand.cs*  
 
 The path of mano_skin model is *Assets/Mano/mano_skin.prefab*
 
