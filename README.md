@@ -15,7 +15,7 @@ conda activate vt-sim
 pip install -r requirements.txt
 ```
 
-The python script **data_generate.py** is in the release, along with the hand urdf for loading in pybullet, the AKB models we use, and the Graspit! data we have generated. You can download them and put them in your own directory, and change their paths in the script.
+The file **requirements.txt** and python script **data_generate.py** is in the release, along with the hand urdf for loading in pybullet, the AKB models we use, and the Graspit! data we have generated. You can download them and put them in your own directory, and change their paths in the script.
 
 ### Unity
 You can clone this repository and open the project in Unity. We use **Unity 2021.3.15f1c1** to develop this project. You can download it from [here](https://unity3d.com/get-unity/download/archive). We also use the [Obi SoftBody](https://assetstore.unity.com/packages/tools/physics/obi-softbody-130029)(v6.4) plugin in our Unity project, which you need to purchase and import into your project.
